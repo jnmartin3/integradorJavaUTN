@@ -1,0 +1,16 @@
+ESTRUCTURA y TIPOS DE DATOS DE LOS ARCHIVOS 
+
+###### resultados.csv ########
+
+ronda,	pais1,	pais2,	resultadoPais1,	resultadoPais2
+
+int,	String,	String,	int,		int
+
+###### pronosticos.csv ########
+
+ronda,	persona,  pais1,   pais2,   ganaPais1,	ganaPais2,  empate
+
+int,	String,	  String,  String,  boolean,	boolean,    boolean
+
+
+
